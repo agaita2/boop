@@ -1,1 +1,62 @@
-.header
+.Header.png {
+  max-width: 100%;
+  height:auto;
+}
+
+.finldig.png {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+
+.textedt.png {
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+
+.twineout.png {
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+
+.twinecode.png {
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+
+.twinegame.png {
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+
+.twinegame2.png {
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+
+body {
+
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
